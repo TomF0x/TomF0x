@@ -6,4 +6,5 @@
 
 [![CodeWars Badge](https://www.codewars.com/users/TomF0x/badges/large)](https://www.codewars.com/users/TomF0x)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TomFox.png" alt="TryHackMe">
+[![Tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/TomFox.png)](https://tryhackme.com/p/TomFox)
+
