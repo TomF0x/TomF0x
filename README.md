@@ -6,4 +6,3 @@
 
 [![CodeWars Badge](https://www.codewars.com/users/TomF0x/badges/micro)](https://www.codewars.com/users/TomF0x)
 [![Hackthebox Badge](http://www.hackthebox.eu/badge/image/329465)](https://app.hackthebox.com/profile/329465)
-[![Tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/TomFox.png)](https://tryhackme.com/p/TomFox)
