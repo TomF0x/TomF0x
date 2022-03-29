@@ -4,6 +4,6 @@
 
 ![TomF0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomF0x&count_private=true&show_icons=true&theme=radical) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomF0x&theme=radical&count_private=true)
 
-[![CodeWars Badge](https://www.codewars.com/users/TomF0x/badges/small)
+[![CodeWars Badge](https://www.codewars.com/users/TomF0x/badges/small)](https://www.codewars.com/users/TomF0x)
 [![Hackthebox Badge](http://www.hackthebox.eu/badge/image/329465)](https://app.hackthebox.com/profile/329465)
 [![Tryhackme Badge](https://tryhackme-badges.s3.amazonaws.com/TomFox.png)](https://tryhackme.com/p/TomFox)
